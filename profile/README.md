@@ -6,6 +6,10 @@ PROJECT ESPRESSO, BREACH IN THE CONTAINMENT.
 
 ---------------------------------------------------
 
+Check out our website at https://breach-in-the-containment.github.io !
+
+---------------------------------------------------
+
 ## What are we?
 
 We are a Minecraft Server's developer team (still in beta) working on SCP and FNaF mods.
