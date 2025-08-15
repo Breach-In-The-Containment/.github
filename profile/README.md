@@ -6,6 +6,10 @@ PROJECT ESPRESSO, BREACH IN THE CONTAINMENT.
 
 ---------------------------------------------------
 
+### We're moving to GitLab but keeping releases on GitHub!
+
+---------------------------------------------------
+
 Check out our website at https://breach-in-the-containment.github.io !
 
 ---------------------------------------------------
