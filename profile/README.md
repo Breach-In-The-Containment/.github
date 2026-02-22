@@ -20,9 +20,7 @@ A very, VERY dangerous entity...
 
 ## What projects do you have going on?
 
-- [ ] Custom launcher -> 85% done
-- [ ] Cappucino.jar (proprietary mod) -> 5% done
-- [ ] Macchiato.jar (proprietary "plugin") -> Unsure
+#holyfckinhairball
 
 ## What else do you have?
 
